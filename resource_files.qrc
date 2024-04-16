@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>images/icone.png</file>
+        <file>images/lock.png</file>
+        <file>images/unlock.png</file>
+        <file>images/show.png</file>
+        <file>images/hide.png</file>
+    </qresource>
+</RCC>
